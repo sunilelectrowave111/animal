@@ -1,4 +1,4 @@
 # animal
 this is my first repository
 <br>
-Athor-sunil shaho
+Athor-sunil shaho (write)
